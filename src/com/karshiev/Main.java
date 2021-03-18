@@ -1,7 +1,7 @@
 // this code finds prime numbers in the range of number user inserted and prints out
 // those prime numbers to the console
 // if you activate commented codes below they will terminate the code when 10 prime numbers found
-// so they are recommended to activate only when you need 10 prime numbers in the range of your given number
+// so they are recommended to activate only when you need first 10 prime numbers in the range of your given number
 package com.karshiev;
 
 import java.util.Scanner;
